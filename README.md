@@ -2,7 +2,7 @@
 
 [SpiderLabs/Responder](https://github.com/SpiderLabs/Responder)
 
-All actual functionality belongs to **[Responder](https://github.com/SpiderLabs/Responder)** by Laurent Gaffie / SpiderLabs (Trustwave), licensed under the GNU GPLv3. This repository does **not** redistribute Responder's source code — it ships a small, standalone patch/setup script meant to run against your own copy of the official tool. If you find Responder useful, go star and credit the original project.
+All actual functionality belongs to **[Responder](https://github.com/SpiderLabs/Responder)** by Laurent Gaffie / SpiderLabs (Trustwave). If you find Responder useful, go star and credit the original project.
 
 ## ⚠️ Disclaimer
 
