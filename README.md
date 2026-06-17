@@ -2,7 +2,7 @@
 
 [SpiderLabs/Responder](https://github.com/SpiderLabs/Responder)
 
-All actual functionality belongs to **[Responder](https://github.com/SpiderLabs/Responder)** by Laurent Gaffie / SpiderLabs (Trustwave). If you find Responder useful, go star and credit the original project.
+All actual functionality belongs to **[Responder](https://github.com/SpiderLabs/Responder)** by SpiderLabs (Trustwave). If you find Responder useful, go star and credit the original project.
 
 ## ⚠️ Disclaimer
 
